@@ -1,4 +1,10 @@
 # Ollama AI project
+
+Initialize the docker
+```bash
+docker build -t ollama-image .
+```
+
 Install the requirements
 ```bash
 pip install -r requirements.txt
